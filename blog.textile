@@ -1,0 +1,9 @@
+---
+layout: page
+title: blog
+permalink: blog/
+---
+<h2>categories</h2>
+
+p. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem assumenda, nulla ratione ullam ut mollitia illum ipsa numquam rem quis saepe vitae id dolores non, corrupti molestiae neque repellendus molestias?
+
